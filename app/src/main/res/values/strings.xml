@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ArquivoRpg</string>
+    <string-array name="classes_rpg">
+        <item>Mago</item>
+        <item>Guerreiro</item>
+        <item>Ladino</item>
+        <item>Clérigo</item>
+        <item>Bárbaro</item>
+    </string-array>
+    <string-array name="racas_rpg">
+        <item>Humano</item>
+        <item>Elfo</item>
+        <item>Anão</item>
+        <item>Orc</item>
+    </string-array>
+    <string-array name="atributos_rpg">
+        <item>Força</item>
+        <item>Destreza</item>
+        <item>Constituição</item>
+        <item>Inteligência</item>
+        <item>Sabedoria</item>
+        <item>Carisma</item>
+    </string-array>
+    <string-array name="dados_rpg">
+        <item>d4</item>
+        <item>d6</item>
+        <item>d8</item>
+        <item>d10</item>
+        <item>d12</item>
+        <item>d20</item>
+    </string-array>
+</resources>
